@@ -2,6 +2,7 @@ package lesson1;
 
 public class HomeWorkApp {
     public static void main(String[] args) {
+        System.out.println(2);
         printThreeWords();
         checkSumSign();
         printColor();
@@ -17,6 +18,7 @@ public class HomeWorkApp {
     public static void checkSumSign() {
         int a = 1;
         int b = 2;
+
 
         if (a + b >= 0) {
             System.out.println("Summa polojitelna");
