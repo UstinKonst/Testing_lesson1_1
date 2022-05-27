@@ -2,12 +2,14 @@ package lesson1;
 
 public class HomeWorkApp {
     public static void main(String[] args) {
-        System.out.println(2);
         printThreeWords();
         checkSumSign();
         printColor();
         compareNumbers();
     }
+
+
+    //tjtgj
 
     public static void printThreeWords() {
         System.out.println("Orange");
