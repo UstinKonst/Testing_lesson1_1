@@ -8,9 +8,6 @@ public class HomeWorkApp {
         compareNumbers();
     }
 
-
-    //tjtgj
-
     public static void printThreeWords() {
         System.out.println("Orange");
         System.out.println("Banana");
@@ -20,7 +17,6 @@ public class HomeWorkApp {
     public static void checkSumSign() {
         int a = 1;
         int b = 2;
-
 
         if (a + b >= 0) {
             System.out.println("Summa polojitelna");
