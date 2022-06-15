@@ -1,4 +1,4 @@
-package lesson6;
+package less6;
 
 public class Cat extends Animal {
     int catMaxRun = 200;
