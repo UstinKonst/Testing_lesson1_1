@@ -1,4 +1,8 @@
-package lesson6;
+package lesson7;
+
+import less6.Animal;
+import less6.Cat;
+import less6.Dog;
 
 public class Main {
     public static void main(String[] args) {
